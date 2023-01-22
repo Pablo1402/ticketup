@@ -1,0 +1,12 @@
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Domain\obj\Debug\net6.0\TicketUpService.Domain.csproj.AssemblyReference.cache
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Domain\obj\Debug\net6.0\TicketUpService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Domain\obj\Debug\net6.0\TicketUpService.Domain.AssemblyInfoInputs.cache
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Domain\obj\Debug\net6.0\TicketUpService.Domain.AssemblyInfo.cs
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Domain\obj\Debug\net6.0\TicketUpService.Domain.csproj.CoreCompileInputs.cache
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Domain\bin\Debug\net6.0\TicketUpService.Domain.deps.json
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Domain\bin\Debug\net6.0\TicketUpService.Domain.dll
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Domain\bin\Debug\net6.0\TicketUpService.Domain.pdb
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Domain\obj\Debug\net6.0\TicketUpService.Domain.dll
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Domain\obj\Debug\net6.0\refint\TicketUpService.Domain.dll
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Domain\obj\Debug\net6.0\TicketUpService.Domain.pdb
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Domain\obj\Debug\net6.0\ref\TicketUpService.Domain.dll

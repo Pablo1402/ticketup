@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "o9T3kv/nLXnA98ZF/8O9d1ka/0fSz9MEelq2+5lNcyE=",
+  "Source": "TicketUpService.Api",
+  "BasePath": "_content/TicketUpService.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

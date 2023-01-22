@@ -1,0 +1,220 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\TicketUp\\projetos\\TicketUpApi\\TicketUpService.Api\\TicketUpService.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\TicketUp\\projetos\\TicketUpApi\\TicketUpService.Api\\TicketUpService.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\TicketUp\\projetos\\TicketUpApi\\TicketUpService.Api\\TicketUpService.Api.csproj",
+        "projectName": "TicketUpService.Api",
+        "projectPath": "C:\\TicketUp\\projetos\\TicketUpApi\\TicketUpService.Api\\TicketUpService.Api.csproj",
+        "packagesPath": "C:\\Users\\dart\\.nuget\\packages\\",
+        "outputPath": "C:\\TicketUp\\projetos\\TicketUpApi\\TicketUpService.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dart\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://code.ifoodcorp.com.br/api/v4/projects/9297/packages/nuget/index.json": {},
+          "https://pkgs.dev.azure.com/superainovacoes/sitemercado/_packaging/sm-nuget/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\TicketUp\\projetos\\TicketUpApi\\TicketUpService.Domain\\TicketUpService.Domain.csproj": {
+                "projectPath": "C:\\TicketUp\\projetos\\TicketUpApi\\TicketUpService.Domain\\TicketUpService.Domain.csproj"
+              },
+              "C:\\TicketUp\\projetos\\TicketUpApi\\TicketUpService.Repository\\TicketUpService.Repository.csproj": {
+                "projectPath": "C:\\TicketUp\\projetos\\TicketUpApi\\TicketUpService.Repository\\TicketUpService.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\TicketUp\\projetos\\TicketUpApi\\TicketUpService.Domain\\TicketUpService.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\TicketUp\\projetos\\TicketUpApi\\TicketUpService.Domain\\TicketUpService.Domain.csproj",
+        "projectName": "TicketUpService.Domain",
+        "projectPath": "C:\\TicketUp\\projetos\\TicketUpApi\\TicketUpService.Domain\\TicketUpService.Domain.csproj",
+        "packagesPath": "C:\\Users\\dart\\.nuget\\packages\\",
+        "outputPath": "C:\\TicketUp\\projetos\\TicketUpApi\\TicketUpService.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dart\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://code.ifoodcorp.com.br/api/v4/projects/9297/packages/nuget/index.json": {},
+          "https://pkgs.dev.azure.com/superainovacoes/sitemercado/_packaging/sm-nuget/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\TicketUp\\projetos\\TicketUpApi\\TicketUpService.Repository\\TicketUpService.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\TicketUp\\projetos\\TicketUpApi\\TicketUpService.Repository\\TicketUpService.Repository.csproj",
+        "projectName": "TicketUpService.Repository",
+        "projectPath": "C:\\TicketUp\\projetos\\TicketUpApi\\TicketUpService.Repository\\TicketUpService.Repository.csproj",
+        "packagesPath": "C:\\Users\\dart\\.nuget\\packages\\",
+        "outputPath": "C:\\TicketUp\\projetos\\TicketUpApi\\TicketUpService.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dart\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://code.ifoodcorp.com.br/api/v4/projects/9297/packages/nuget/index.json": {},
+          "https://pkgs.dev.azure.com/superainovacoes/sitemercado/_packaging/sm-nuget/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\TicketUp\\projetos\\TicketUpApi\\TicketUpService.Domain\\TicketUpService.Domain.csproj": {
+                "projectPath": "C:\\TicketUp\\projetos\\TicketUpApi\\TicketUpService.Domain\\TicketUpService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

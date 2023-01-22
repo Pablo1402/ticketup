@@ -1,0 +1,17 @@
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Repository\obj\Debug\net6.0\TicketUpService.Repository.csproj.AssemblyReference.cache
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Repository\obj\Debug\net6.0\TicketUpService.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Repository\obj\Debug\net6.0\TicketUpService.Repository.AssemblyInfoInputs.cache
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Repository\obj\Debug\net6.0\TicketUpService.Repository.AssemblyInfo.cs
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Repository\obj\Debug\net6.0\TicketUpService.Repository.csproj.CoreCompileInputs.cache
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Repository\bin\Debug\net6.0\TicketUpService.Repository.deps.json
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Repository\bin\Debug\net6.0\TicketUpService.Repository.runtimeconfig.json
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Repository\bin\Debug\net6.0\TicketUpService.Repository.dll
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Repository\bin\Debug\net6.0\TicketUpService.Repository.pdb
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Repository\bin\Debug\net6.0\TicketUpService.Domain.dll
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Repository\bin\Debug\net6.0\TicketUpService.Domain.pdb
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Repository\obj\Debug\net6.0\TicketUpService.Repository.csproj.CopyComplete
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Repository\obj\Debug\net6.0\TicketUpService.Repository.dll
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Repository\obj\Debug\net6.0\refint\TicketUpService.Repository.dll
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Repository\obj\Debug\net6.0\TicketUpService.Repository.pdb
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Repository\obj\Debug\net6.0\TicketUpService.Repository.genruntimeconfig.cache
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Repository\obj\Debug\net6.0\ref\TicketUpService.Repository.dll

@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using TicketUpService.Api.Dtos.Stores;
 using TicketUpService.Domain.Entities;
@@ -11,6 +12,7 @@ namespace TicketUpService.Api.Controllers
     public class StoreController : ControllerBase
     {
         [HttpPost]
+        [Authorize(Roles = "master")]
         public async Task<IActionResult> Create([FromServices] IStoreRepository storeRepository, CreateStoreDto createStoreDto)
         {
             var storeSave = new Store(createStoreDto.Name, createStoreDto.Email);

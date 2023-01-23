@@ -15,11 +15,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Domain", "2 - Domain", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Infra", "3 - Infra", "{BC907B1F-1690-4308-9D8E-E927548F56EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketUpService.Repository", "TicketUpService.Repository\TicketUpService.Repository.csproj", "{92339C17-F138-4B11-814E-78E1C20B5BE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicketUpService.Repository", "TicketUpService.Repository\TicketUpService.Repository.csproj", "{92339C17-F138-4B11-814E-78E1C20B5BE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketUpService.Domain", "TicketUpService.Domain\TicketUpService.Domain.csproj", "{FA92CD9D-68C0-4AA8-817B-1E0B0D09ECBE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicketUpService.Domain", "TicketUpService.Domain\TicketUpService.Domain.csproj", "{FA92CD9D-68C0-4AA8-817B-1E0B0D09ECBE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketUpService.Api", "TicketUpService.Api\TicketUpService.Api.csproj", "{A5383E97-571A-4FB6-BD79-EC5D77D61320}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicketUpService.Api", "TicketUpService.Api\TicketUpService.Api.csproj", "{A5383E97-571A-4FB6-BD79-EC5D77D61320}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

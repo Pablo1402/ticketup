@@ -64,3 +64,10 @@ C:\TicketUp\projetos\TicketUpApi\TicketUpService.Api\obj\Debug\net6.0\ref\Ticket
 C:\TicketUp\projetos\TicketUpApi\TicketUpService.Api\bin\Debug\net6.0\Humanizer.dll
 C:\TicketUp\projetos\TicketUpApi\TicketUpService.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\TicketUp\projetos\TicketUpApi\TicketUpService.Api\obj\Debug\net6.0\TicketUpService.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Api\bin\Debug\net6.0\MediatR.dll
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Api\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Api\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\TicketUp\projetos\TicketUpApi\TicketUpService.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll

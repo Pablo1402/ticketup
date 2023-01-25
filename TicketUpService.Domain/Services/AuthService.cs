@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.Configuration;
+﻿using Microsoft.AspNetCore.Http;
+using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using System;
 using System.Collections.Generic;
@@ -14,6 +15,8 @@ namespace TicketUpService.Domain.Services
     public class AuthService : IAuthService
     {
         private readonly IConfiguration _configuration;
+
+
         public AuthService(IConfiguration configuration)
         {
             _configuration = configuration;
@@ -36,7 +39,7 @@ namespace TicketUpService.Domain.Services
            
         }
 
-        public string GenerateJwtToken(string login, string role)
+        public string GenerateJwtToken(string login, string role, string id, string store)
         {
             var issuer = _configuration["Jwt:Issuer"];
             var audience = _configuration["Jwt:Audience"];
@@ -48,6 +51,8 @@ namespace TicketUpService.Domain.Services
             var claims = new List<Claim>
             {
                 new Claim("userName", login),
+                new Claim("user", id),
+                new Claim("userStore", store),
                 new Claim(ClaimTypes.Role,role)
             };
 
@@ -63,5 +68,6 @@ namespace TicketUpService.Domain.Services
             return stringToken;
             
         }
+
     }
 }

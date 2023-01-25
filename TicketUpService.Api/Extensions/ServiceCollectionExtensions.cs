@@ -14,6 +14,7 @@ namespace TicketUpService.Api.Extensions
             services.AddTransient<IStoreRepository, StoreRepository>();
             services.AddTransient<IUserRepository, UserRepository>();
             services.AddTransient<IUserProfileRepository, UserProfileRepository>();
+            services.AddTransient<IClientRepository, ClientRepository>();
 
 
             return services;

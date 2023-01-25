@@ -31,7 +31,7 @@ namespace TicketUpService.Domain.Commands.LoginUser
             if (user == null)
                 return null;
 
-            var token = _authService.GenerateJwtToken(user.Login, user.UserProfile.Name);
+            var token = _authService.GenerateJwtToken(user.Login, user.UserProfile.Name, user.Id.ToString(), user.StoreId.ToString());
 
             return new LoginUserViewModel(user.Login, token);
         }

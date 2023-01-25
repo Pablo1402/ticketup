@@ -7,7 +7,7 @@ namespace TicketUpService.Api.Controllers
 {
     [Route("api/users")]
     [Authorize]
-    public class UserController : ControllerBase
+    public class UserController : BaseController
     {
         private readonly IMediator _mediator;
 

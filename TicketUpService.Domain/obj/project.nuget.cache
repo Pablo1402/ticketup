@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "YHQ6MDkzQDxVshPsEMhrLPSDwecRv75J9eFJBdnSgWHfYfyAQGHeUijP6nfNoZqSBBVbKAZHCxy1i3qay8TrgQ==",
+  "dgSpecHash": "SRdlVe84ULzUPjIB9htuO9LyAydPCyvHzusQy1AoIr3Qi0okI9ltPhxTNm99FjEzlbl0lGWOyf9GhuJHpRMvaA==",
   "success": true,
   "projectFilePath": "C:\\TicketUp\\projetos\\TicketUpApi\\TicketUpService.Domain\\TicketUpService.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dart\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
     "C:\\Users\\dart\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\dart\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\dart\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\dart\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\dart\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\dart\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",

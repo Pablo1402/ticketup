@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "3UjmozIg+eHOOx9Gd5VwOfq4P2O1b0fGu40OXS1laHBn8vkhPICDDGhueO6ZAK5drzqNcTIT8GrPhD6JAzDg4Q==",
+  "dgSpecHash": "QtJd66oJQhkuqEjsaNkKX2r5ilvmBAe2Dq1j+eKvVfsNjoYU9qz5sMmaUZV//QvnLV8rt583TGt33QogcWS38Q==",
   "success": true,
   "projectFilePath": "C:\\TicketUp\\projetos\\TicketUpApi\\TicketUpService.Repository\\TicketUpService.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dart\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\dart\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
     "C:\\Users\\dart\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\dart\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\dart\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\dart\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\dart\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\dart\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
